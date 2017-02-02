@@ -1,0 +1,134 @@
+{
+    "isim": "Serkan Köse",
+    "pozisyon":"Front End Developer",
+    "kisisel":{
+        "dogumTarihi":"1995/01/13",
+        "askerlik":"okuyor",
+        "ehliyet":"var"
+    },
+    "iletisim":{
+        "adres": "Avcılar/İstanbul",
+        "telefon": "543 345 7613",
+        "eposta": "serkan.kose@hotmail.com",
+        "linkedin": "https://tr.linkedin.com/in/serkankose1903",
+        "github": "https://github.com/serkankose1903/"
+    },
+    "egitim":[
+        {
+            "okul": "ANADOLU ÜNİVERSİTESİ AÇIK ÖĞRETİM FAKÜLTESİ",
+            "bolum": "İşletme",
+            "tarih": "2016 - Devam Ediyor"
+        },
+        {
+            "okul": "YILDIZ TEKNİK ÜNİVERSİTESİ MESLEK YÜKSEKOKULU",
+            "bolum": "Bilgisayar Programcılığı",
+            "tarih": "2013 - 2015"
+        }
+    ],
+    "kurslar": {
+        "firmaAdi" : "",
+        "aciklama" : ""
+    },
+    "yetenekler":{
+        "frontEnd": [
+            "HTML5",
+            "CSS3",
+            "Bootstrap",
+            "MeterialBootstrap",
+            "Javascript",
+            "Jquery",
+            "AngularJS",
+            "ReactJS",
+            "AngularMeterial",
+            "JSON",
+            "Ajax"
+        ],
+        "backEnd":[
+            "ASP.Net MVC",
+            "Asp.Net",
+            "Ado.Net",
+            "EntityFramework",
+            "OOP",
+            "KatmanlıMimari",
+            "DesignPattern",
+            "Linq",
+            "FluentApi",
+            "SOLID"
+        ],
+        "database":[
+            "MS-SQL",
+            "Access",
+            "MY-SQL"
+        ],
+        "versiyonKontrol":[
+            "git",
+            "tfs"
+        ],
+        "diger":[
+            "gulp",
+            "grunt",
+            "npm",
+            "bower",
+            "linux",
+            "ms-server"
+        ]
+
+    },
+    "isDeneyimi":[
+        {
+        "firmaAdi" : "Web Bilir Akademi",
+        "pozisyon" : "Freelance Web Developer",
+        "tarih" : "Haziran 2016 - Devam Ediyor",
+        "gorev" : ""
+
+    },
+    {
+        "firmaAdi" : "Parabilir.com",
+        "pozisyon" : "Freelance Front End Developer",
+        "tarih" : "Ocak 2016 - Mayıs 2016",
+        "gorev":"Sitenin arayüzü ile ilgili çalışmalarda bulundum."
+
+    },
+    {
+        "firmaAdi" : "Proser Bilişim Hizmetleri",
+        "pozisyon" : "Sistem Uzmanı",
+        "tarih" : "Eylül 2015 - Mayıs 2016",
+        "gorev" : "Cisco cihazları konfigurasyonu ve kurulumu"
+    },
+     {
+        "firmaAdi" : "BUF Agency",
+        "pozisyon" : "Stajyer",
+        "tarih" : "Haziran 2014 - Eylül 2014",
+        "gorev" : "Buf Agency sitesinin iletişim sayfasını yaptım. HTML5, CSS3, Bootstrap ve JQuery kullandım."
+    }
+
+    ],
+    "projeler" : [
+        {
+            "adi" : "Thea",
+            "aciklama" : "Front End tarafı HTML5, CSS3, Javascript, Jquery ve Bootstrap kullanıldı. Back End tarafında Asp.Net, Asp.Net MVC4 ve MSSQL kullanıldı.Fransız menşei bir firmanın kurumsal web sitesi.",
+            "tarih" : "2016",
+            "url" : "http://www.laboratoires-thea.com/en"
+        },
+         {
+            "adi" : "Paradan Önce",
+            "aciklama" : "Front - End tarafı HTML5, CSS3, AngularJS, Angular Meterial, JavaScript ile yapıldı. Back - end tarafı ise Asp.NET MVC ve MS SQL ile yapıldı. İnsanların üye olup takas yapmak istediği ürünleri paylaştığı bir eticaret sitesi.",
+            "tarih" : "2016",
+            "url" : "aktif değil"
+        },
+         {
+            "adi" : "Fox Mimarlık",
+            "aciklama" : "HTML5, CSS3, Angular Material, AngularJS kullanarak projenin front-end tarafı tamamlandı. Php, Laravel ve MySQL kullanılarak back-end tarafı tamamlandı ve sitenin dinamik olmasını sağlanıldı. Seo standartalarına uygun yazıldı. ",
+            "tarih" : "2016",
+            "url" : "http://www.foxmimarlik.com/"
+        },
+        {
+            "adi" : "YTÜ İtiraf Ediyor",
+            "aciklama" : "HTML5, CSS3, Bootstrap, Jquery, Javascript ile front-end tarafını tamamlandı. Php, Laravel ve MySQL ile back-end tarafı tamamlandı. Yıldız Teknik Üniversitesi öğrencilerinin üye olduğu ve belli kriterlere göre sohbet odalarına yönlendirilebildiği bir sosyal paylaşım platformu.",
+            "tarih" : "2015",
+            "url":"aktif değil"
+        }
+
+    ]
+
+}
